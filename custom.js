@@ -4,6 +4,7 @@ document.querySelector(#clear).addEventListener("Click", ()=>{
     // no #display (ou visor) limpando o nýmero informado
 })
 
+
 // Botão -> backSpace
 
 const backSpace = () =>{
